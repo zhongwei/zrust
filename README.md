@@ -1,0 +1,2 @@
+# zrust
+Learning rust
